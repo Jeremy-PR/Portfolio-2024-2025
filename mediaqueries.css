@@ -39,6 +39,10 @@
   .contact-info-container p {
     font-size: 1.4rem;
   }
+
+  .paradescrip {
+    margin-bottom: 24px; 
+  }
 }
 
 /* Pour les écrans entre 1400px et 1800px */
@@ -69,6 +73,10 @@
     margin-bottom: 2rem;
     height: auto;
   }
+
+  .paradescrip {
+    margin-bottom: 20px;
+  }
 }
 
 /* Pour les écrans jusqu'à 1400px */
@@ -84,6 +92,10 @@
   #projects {
     height: auto;
     min-height: 40vh;
+  }
+
+  .paradescrip {
+    margin-bottom: 18px;
   }
 }
 
@@ -120,6 +132,10 @@
   }
   .about-containers {
     margin-top: 0;
+  }
+
+  .paradescrip {
+    margin-bottom: 16px;
   }
 }
 
@@ -213,5 +229,9 @@
     width: 90%;
     margin: 0 auto;
     text-align: center;
+  }
+
+  .paradescrip {
+    margin-bottom: 12px; 
   }
 }
